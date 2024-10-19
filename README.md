@@ -4,7 +4,7 @@ npm install -g create-react-app
 npx create-react-app blog
 cd blog
 npm start
-
+Ctrl + C basarsan sıfırlarsın
 
 
 
